@@ -1,0 +1,12 @@
+h1{
+  color: white;
+  font-size: 30px;
+
+}
+
+body{
+  background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--hpRXmy_p--/c_scale,f_auto,fl_progressive,q_80,w_800/18dn0j58dv0wtjpg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
