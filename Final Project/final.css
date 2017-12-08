@@ -1,0 +1,215 @@
+#lit {
+  position:center;
+  font-family:'SFSportsNight';
+  font-size: 49px;
+}
+
+body{
+  background-color: #FDBB30;
+}
+
+.jlogo {
+  display: inline-block;
+  font-size: 150px;
+  color: #e00;
+  animation: pound .25s infinite alternate;
+  transform-origin: center;
+}
+
+.gif1 {
+  position: absolute;
+  top: 17.5px;
+  left: 1100px;
+  width: 100px;
+  height: 100px;
+}
+
+.gif2 {
+  position: absolute;
+  top: 17.5px;
+  left: 75px;
+  width: 100px;
+  height: 100px;
+  transform: scaleX(-1);
+}
+
+.gif3 {
+  position: static;
+  width: 200px;
+  height: 200px;
+  padding: : 8px;
+  margin-top: 7px;
+}
+
+.gif {
+float: left;
+position: static;
+
+}
+
+
+#navbar ul { 
+  margin: 10px; 
+  padding: 10px; 
+  text-align: center; 
+  background-color: #007AC1;
+  position:static;
+  top: 60px; 
+  } 
+ 
+#navbar ul li {  
+  display: inline; 
+  } 
+ 
+#navbar ul li a { 
+  font-family: 'SFSportsNight';
+  text-decoration: underline; 
+  padding: .2em 1em; 
+  color: #007AC1; 
+  background-color: #FFFFFF; 
+  } 
+ 
+#navbar ul li a:hover { 
+  color: #007AC1; 
+  background-color: #F05133; 
+  } 
+
+* {
+  box-sizing: border-box;
+}
+.menu {
+  float:left;
+  width:20%;
+  text-align:center;
+  color: #002D62;
+  font-family: SFSportsNight;
+}
+.menuitem {
+  background-color: #002D62;
+  padding:8px;
+  margin-top:7px;
+  color:#F05133;
+  text-align: left;
+}
+.main {
+  color:#002D62;
+  float:left;
+  width:60%;
+  padding:0 20px;
+  font-family: 'SFSportsNight'
+}
+.right {
+  background-color: #F05133;
+  float:left;
+  width:20%;
+  padding:15px;
+  margin-top:7px;
+  text-align:left;
+  color: #002D62;
+  font-family: 'SFSportsNight'
+}
+
+
+
+  @font-face {
+font-family: "SFSportsNight";
+src: url("css/fonts/SFSportsNight.ttf");
+src: 
+url("css/fonts/SFSportsNight.ttf") format("ttf"),
+}
+
+/*Page1-Offence*/
+
+.off {
+  background-color: #007AC1;
+  text-decoration: underline;
+}
+
+
+@keyframes pound {
+  to { transform: scale(.2); }
+}
+
+.melo {
+  position: absolute;
+  top: 33px;
+  left: 8px;
+  width: 130px;
+  height: 137.5px;
+  display: inline-block;
+  font-size: 150px;
+  color: #e00;
+  animation: pound 1.5s infinite alternate;
+  transform-origin: left;
+  
+}
+
+body { text-align: center; }
+
+.menu1 {
+  float: right;
+  width:100%;
+  text-align: right;
+  color: #002D62;
+  font-family: SFSportsNight;
+}
+
+.menuitem1 {
+  background-color: #002D62;
+  padding:8px;
+  margin-top:7px;
+  color:#F05133;
+  text-align: right;
+}
+
+.main1 {
+  color:#FDBB30;
+  float:right;
+  width:60%;
+  padding:0 20px;
+  font-family: 'SFSportsNight'
+
+  .def {
+  background-color: #F05133;
+  text-decoration: underline;
+}
+
+@keyframes pound {
+  to { transform: scale(.2); }
+}
+
+.bl {
+  position: absolute;
+  top: 33px;
+  left: 8px;
+  width: 200px;
+  height: 137.5px;
+  display: inline-block;
+  font-size: 150px;
+  color: #e00;
+  animation: pound 1.5s infinite alternate;
+  transform-origin: left;
+  
+}
+
+body { text-align: center; }
+
+.gifa {
+  position: absolute;
+  width: 250px;
+  height: 50px;
+  padding: : 8px;
+  margin-top: 7px;
+}
+
+.cen {
+  text-align: center;
+}
+
+.fo {
+  font-family: 'SFSportsNight'
+  color: #007AC1;
+}
+
+
+
